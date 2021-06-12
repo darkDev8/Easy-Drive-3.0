@@ -13,7 +13,11 @@ The software heavily uses sdk5 library, the link is **[here](https://github.com/
 
 ## New Features
 
-* New logo and prompt path color for Unix based operating systems.
+* New prompt and logo color.
+* Add skull emoji to the prompt for unix systems.
+* Add new find command for search(files,users and histories).
+* Add new changes command to show software changes and new updates that applied to this version.
+* New ls alias for lsc command.
 
 # Bug fixes
 * Better animation performance (history,lsc,cat) commands.
