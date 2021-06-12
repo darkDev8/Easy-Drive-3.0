@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Easy Drive 3.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Easy_Drive_3_0_jar</output-path>
+    <root id="archive" name="Easy Drive 3.0.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Easy Drive 3.0" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/sdk5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

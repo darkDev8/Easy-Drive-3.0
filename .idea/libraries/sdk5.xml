@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sdk5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sdk5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/sdk5.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/sdk5.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

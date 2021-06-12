@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1622279436 source:c:\users\mch8\documents\codeblocksprojects\clearscreen\login\conio.cpp
+	"conio.h"
+
+1622279438 c:\users\mch8\documents\codeblocksprojects\clearscreen\login\conio.h
+	<stdio.h>
+	<windows.h>
+
+1622280550 source:c:\users\mch8\documents\codeblocksprojects\clearscreen\login\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<thread>
+
