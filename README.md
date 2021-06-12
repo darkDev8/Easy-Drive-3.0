@@ -9,7 +9,7 @@ Software updated (3.4.19 -> 3.5.32).
 You can upload up to 100MB for each user and it supports maximum 10 users -> 1GB total space. <br>
 The software heavily uses sdk5 library, the link is **[here](https://github.com/mahdiDedsec/SDKLibrary-5.0).**
 
-![ERROR](/shots/etitle.png)
+![ERROR](/shots/title.png)
 
 ## New Features
 
@@ -50,7 +50,7 @@ The software heavily uses sdk5 library, the link is **[here](https://github.com/
 
 The commands are listed below.
 
-![ERROR](/shots/help.jpg)
+![ERROR](/shots/help.png)
 
 ## Run
 
